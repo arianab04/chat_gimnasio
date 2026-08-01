@@ -1,0 +1,13 @@
+HORARIOS
+
+Lunes a viernes
+06:00 a 22:00
+
+Sábados
+08:00 a 18:00
+
+Domingos
+09:00 a 13:00
+
+Feriados
+Cerrado

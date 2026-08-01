@@ -1,0 +1,18 @@
+PLANES DEL GIMNASIO FITLIFE
+
+Plan Básico
+- Acceso de lunes a viernes de 8:00 a 18:00.
+- Uso de sala de musculación.
+- Sin acceso a clases grupales.
+
+Plan Plus
+- Acceso todos los días de 6:00 a 22:00.
+- Sala de musculación.
+- Clases grupales ilimitadas.
+- Evaluación física inicial.
+
+Plan Premium
+- Acceso ilimitado.
+- Todas las clases.
+- Entrenador personalizado una vez por mes.
+- Plan nutricional.
